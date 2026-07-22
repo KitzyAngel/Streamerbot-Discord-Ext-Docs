@@ -8,3 +8,14 @@ url: https://kitzyangel.github.io/streamerbot-discord-ext-docs
 
 aux_links:
   Docs Repo: https://github.com/KitzyAngel/streamerbot-discord-ext-docs
+
+nav_external_links:
+  - title: Discord Gateway Events
+    url: https://docs.discord.com/developers/events/gateway-events
+    opens_in_new_tab: true
+  - title: Discord HTTP API
+    url: https://docs.discord.com/developers/resources/message
+    opens_in_new_tab: true
+  - title: Twitch HTTP API
+    url: https://dev.twitch.tv/docs/api/reference/
+    opens_in_new_tab: true
