@@ -1,4 +1,4 @@
-title: Streamerbot Discord Extension Docs
+title: SB Discord Docs
 description: Documentation for the Streamerbot Extension that adds a Discord bot to Streamerbot
 theme: just-the-docs
 
@@ -7,4 +7,4 @@ color_scheme: dark
 url: https://kitzyangel.github.io/streamerbot-discord-ext-docs
 
 aux_links:
-  Template Repository: https://github.com/KitzyAngel/streamerbot-discord-ext-docs
+  Docs Repo: https://github.com/KitzyAngel/streamerbot-discord-ext-docs
