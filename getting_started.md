@@ -23,7 +23,7 @@ Get and save token for your Bot
 Add bot to your discord server
 
 ## 2. Download and import the extension
-Download [DiscordBotExt.sb]({{ site.url }}/downloads/DiscordBotExt.sb)
+Download [DiscordBotExt.sb]({{ site.baseurl }}/downloads/DiscordBotExt.sb)
 
 GIF FOR IMPORTING STREAMERBOT
 
@@ -51,6 +51,6 @@ OPTIONAL: Have trigger for when boot STREAMERBOT
 
 ## 5. Use Extension
 
-Check out [How to Use the extension]({{ site.url }}/use_cases/)
+Check out [How to Use the extension]({{ site.url }}{% link how_to_use.md %})
 
-Or Look at [Use Cases]({{ site.url }}/use_cases/)
+Or Look at [Use Cases]({{ site.url }}{% link use_cases.md %})
