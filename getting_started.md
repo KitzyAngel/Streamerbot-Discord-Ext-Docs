@@ -8,19 +8,60 @@ nav_order: 1
 
 ## 1. Create a Discord Bot
 
-Go to dev website for Discord
+### Go to [Discord Developer Portal Applications](https://discord.com/developers/applications)
+<img src="/assets/img/Discord Dev Applications.png" width="700">
 
-Create application for your Bot
 
-Create Bot for your application
+Create application for your Bot (The name here is only interal. Name it whatever you want that is fitting)
 
-OPTIONAL: Upload picture for application/Bot
+---
 
-Add prescene if Needed
+### Go to Bot on the bar on the left
+<img src="/assets/img/Discord Bot Settings.png" width="700">
 
-Get and save token for your Bot
+Set your bots username<br>
+OPTIONAL: Add an image for your bot to show as its avatar on discord
 
-Add bot to your discord server
+---
+
+### Scroll down to Bot Intents
+<img src="/assets/img/Discord Bot Intent.png" width="700">
+
+Turn on intents for events you want your bot to be able to listen to. Intents Are:
+
+* Presence Intent: For tracking and seeing the activity of discord users
+* Server Members Intent: For seeing and tracking discord user information in your server
+* Message Content Intent: For seeing the contents of messages
+
+If unsure, turn them all on to allow your bot to do anything you may want it to
+
+---
+
+### Reset the Bot Token
+<img src="/assets/img/Discord Bot Token.png" width="700">
+
+Reset the Bot Token and copy & save this for Step 2. (DO NOT share this token with anyone!)
+
+---
+
+### Go to OAuth2 on the left
+<img src="/assets/img/Discord Bot Permissions.png" width="700">
+
+1. Click Bot under Scopes
+2. Select All the permissions you want your bot to have*
+3. Copy the generated URL
+
+\* You can change permissions in your server later if you want
+
+---
+
+### Open a new tab
+<img src="/assets/img/Discord Bot Add To Server.png" width="400">
+
+Paste the generated URL into a new tab and it should open up discord on your PC<br>
+Then choose the server you want to add the bot to and authorize with your permissions
+
+---
 
 ## 2. Download and import the extension
 Download [DiscordBotExt.sb]({{ site.baseurl }}/downloads/DiscordBotExt.sb)
