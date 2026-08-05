@@ -64,13 +64,26 @@ Then choose the server you want to add the bot to and authorize with your permis
 ---
 
 ## 2. Download and import the extension
-Download [DiscordBotExt.sb]({{ site.baseurl }}/downloads/DiscordBotExt.sb)
 
-GIF FOR IMPORTING STREAMERBOT
+### Import into streamer bot
+<img src="{{ site.baseurl }}/img/StreamerDiscordBot Import.gif" width="700">
 
-Import DiscordBotExt.sb into StreamerBot
+Download [DiscordBotExt.sb]({{ site.baseurl }}/downloads/DiscordBotExt.sb) and import it into streamerbot
 
-Set Token File from Step 1 in StreamerBot
+---
+
+### Create Token File
+<img src="{{ site.baseurl }}/img/Create Token File.png" width="700">
+Create a new text file with the token from step 1 as the only thing in it
+
+---
+
+### Set the Token File in streamerbot
+<img src="{{ site.baseurl }}/img/Streamerbot Token File.png" width="700">
+
+Set the Token File in the Discord Bot Action
+
+---
 
 ## 3. Set Bot Intents
 
