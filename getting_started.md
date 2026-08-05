@@ -85,13 +85,24 @@ Set the Token File in the Discord Bot Action
 
 ---
 
-## 3. Set Bot Intents
+## 3. Set Bot Intents (OPTIONAL)
 
-Open Code for Discord Bot
+### Go to Intents in code
+<img src="{{ site.baseurl }}/img/Open Code.png" width="700">
 
-Determine Intents Wanted
+Open Code for Discord Bot<br>
+Go to line 39
 
-Put on line of Code seprate by |
+---
+
+### Change Intents to the ones you want
+<img src="{{ site.baseurl }}/img/Edit Intents.png" width="700">
+
+Change the intents to the ones you want seperated by |<br>
+Documation on Intents can be found <a href="https://docs.discord.com/developers/events/gateway#list-of-intents" target="_blank">here</a><br>
+Then save and close the code
+
+---
 
 ## 4. Run Discord Bot
 
