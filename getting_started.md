@@ -106,13 +106,23 @@ Then save and close the code
 
 ## 4. Run Discord Bot
 
-Test discord Bot
+### Test the Bot
+<img src="{{ site.baseurl }}/img/Start Bot.png" width="700">
 
-Check global variables to see status
+Start the discord bot by running the test trigger
 
-Simple Test to make sure its working
 
-OPTIONAL: Have trigger for when boot STREAMERBOT
+### Check the Bot
+<img src="{{ site.baseurl }}/img/Bot Status.png" width="700">
+
+Check global non-persisted global variables for the status of the Bot
+
+
+### OPTIONAL: Set bot to start with streamerbot
+<img src="{{ site.baseurl }}/img/Add Start Trigger.png" width="700">
+
+Add trigger to bot to start with streamerbot or other case you want the bot to start at
+
 
 ## 5. Use Extension
 
