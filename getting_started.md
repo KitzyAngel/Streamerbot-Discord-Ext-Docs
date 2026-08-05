@@ -9,7 +9,7 @@ nav_order: 1
 ## 1. Create a Discord Bot
 
 ### Go to [Discord Developer Portal Applications](https://discord.com/developers/applications)
-<img src="/assets/img/Discord Dev Applications.png" width="700">
+<img src="{{ site.baseurl }}/img/Discord Dev Applications.png" width="700">
 
 
 Create application for your Bot (The name here is only interal. Name it whatever you want that is fitting)
@@ -17,7 +17,7 @@ Create application for your Bot (The name here is only interal. Name it whatever
 ---
 
 ### Go to Bot on the bar on the left
-<img src="/assets/img/Discord Bot Settings.png" width="700">
+<img src="{{ site.baseurl }}/img/Discord Bot Settings.png" width="700">
 
 Set your bots username<br>
 OPTIONAL: Add an image for your bot to show as its avatar on discord
@@ -25,7 +25,7 @@ OPTIONAL: Add an image for your bot to show as its avatar on discord
 ---
 
 ### Scroll down to Bot Intents
-<img src="/assets/img/Discord Bot Intent.png" width="700">
+<img src="{{ site.baseurl }}/img/Discord Bot Intent.png" width="700">
 
 Turn on intents for events you want your bot to be able to listen to. Intents Are:
 
@@ -38,14 +38,14 @@ If unsure, turn them all on to allow your bot to do anything you may want it to
 ---
 
 ### Reset the Bot Token
-<img src="/assets/img/Discord Bot Token.png" width="700">
+<img src="{{ site.baseurl }}/img/Discord Bot Token.png" width="700">
 
 Reset the Bot Token and copy & save this for Step 2. (DO NOT share this token with anyone!)
 
 ---
 
 ### Go to OAuth2 on the left
-<img src="/assets/img/Discord Bot Permissions.png" width="700">
+<img src="{{ site.baseurl }}/img/Discord Bot Permissions.png" width="700">
 
 1. Click Bot under Scopes
 2. Select All the permissions you want your bot to have*
@@ -56,7 +56,7 @@ Reset the Bot Token and copy & save this for Step 2. (DO NOT share this token wi
 ---
 
 ### Open a new tab
-<img src="/assets/img/Discord Bot Add To Server.png" width="400">
+<img src="{{ site.baseurl }}/img/Discord Bot Add To Server.png" width="400">
 
 Paste the generated URL into a new tab and it should open up discord on your PC<br>
 Then choose the server you want to add the bot to and authorize with your permissions
